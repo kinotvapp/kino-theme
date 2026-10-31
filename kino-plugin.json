@@ -1,0 +1,22 @@
+{
+  "id": "kino-theme",
+  "name": "Tema de Kino",
+  "version": "1.0.0",
+  "apiVersion": 17,
+  "entry": "plugin.js",
+  "description": "El aspecto de Kino, incluido en la app",
+  "author": "kinotvapp",
+  "hosts": [],
+  "categories": [
+    "themes"
+  ],
+  "appThemes": [
+    {
+      "id": "kino",
+      "name": {
+        "es": "Tema de Kino",
+        "en": "Kino theme"
+      }
+    }
+  ]
+}
